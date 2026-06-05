@@ -37,13 +37,21 @@ Based on the default and supply concentrations identified in the data:
 
 ## Dashboard Structure
 
+The reporting layout adopts a minimalist executive scorecard design. Rather than crowding the canvas with complex visualizations, the interface focuses on three high-impact KPI banners per page. This layout is optimized for rapid mobile and tablet viewing by C-suite executives who require immediate visibility into portfolio health and stockout costs without visual clutter.
+
 ### Page 1: Demand and Availability Overview
 * **Focus**: High-level KPIs including Average Demand per Day, Average Availability per Day, and Total Supply Shortage.
 * **Visuals**: Tracks core operational supply metrics to identify structural shortages, using page-level filters for Product Name and Order Date.
 
+  <img width="1407" height="789" alt="Screenshot 2026-06-06 041819" src="https://github.com/user-attachments/assets/64cbbb43-d5ad-4b35-b258-a83661b5a835" />
+
+
 ### Page 2: Financial Impact Analysis
 * **Focus**: Financial outcomes including Total Profit, Total Loss, and Average Daily Loss.
 * **Visuals**: Translates physical inventory shortages into financial terms to demonstrate the cost of stockouts, sharing the same page-level filters.
+
+  <img width="1406" height="790" alt="Screenshot 2026-06-06 041836" src="https://github.com/user-attachments/assets/0a9fcc53-aaa2-4e27-be9e-872bc0a06477" />
+
 
 ---
 
